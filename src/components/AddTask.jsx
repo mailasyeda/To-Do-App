@@ -69,7 +69,7 @@ function AddTask({ Task, setTask, notes, setNotes }) {
       "
       >
         <h2 className="text-3xl font-bold text-center text-gray-700 mb-8">
-          📝 Add a New Note
+           Add a New Note
         </h2>
 
         <input
